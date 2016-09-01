@@ -1,0 +1,24 @@
+{
+  "name": "core-wechat",
+  "version": "1.0.0",
+  "description": "core-wechat",
+  "files": [
+    "lib"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.0.1",
+    "core-base": "file:./submodule/core-base",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "sj",
+    "email": "",
+    "url": ""
+  },
+  "license": "ISC"
+}

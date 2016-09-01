@@ -1,0 +1,3 @@
+[submodule "submodule/core-base"]
+	path = submodule/core-base
+	url = https://w446108264@github.com/w446108264/core-base.git
